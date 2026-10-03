@@ -1,0 +1,16 @@
+{
+  "name": "sadev-ventures-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sadev Ventures marketing website (static, deployed on Vercel).",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "check": "node scripts/build.mjs && node scripts/check.mjs"
+  }
+}

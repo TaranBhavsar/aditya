@@ -1,0 +1,53 @@
+<section class="page-hero" style="padding-bottom: 48px">
+<div class="container container--wide">
+<p class="eyebrow">Cultivating success</p>
+<h1 class="h1 h1--hero" style="line-height: 1">Our Bets</h1>
+<p class="lead" style="margin-top: 24px; font-size: 21px">Fueling India's startup dreams, we craft an indelible legacy.</p>
+</div>
+</section>
+
+<section class="section section--flush-top">
+<div class="container container--wide">
+<form class="filters" role="search" aria-label="Filter portfolio" data-filters>
+<div class="field">
+<label for="f-status">Investment status</label>
+<select id="f-status" name="status">
+<option value="">All</option>
+{{OPTIONS_STATUS}}
+</select>
+</div>
+<div class="field">
+<label for="f-fund">Fund</label>
+<select id="f-fund" name="fund">
+<option value="">All</option>
+{{OPTIONS_FUND}}
+</select>
+</div>
+<div class="field">
+<label for="f-sector">Sector</label>
+<select id="f-sector" name="sector">
+<option value="">All</option>
+{{OPTIONS_SECTOR}}
+</select>
+</div>
+<div class="field">
+<label for="f-stage">Stage</label>
+<select id="f-stage" name="stage">
+<option value="">All</option>
+{{OPTIONS_STAGE}}
+</select>
+</div>
+<button class="btn-clear" type="reset">Clear filters</button>
+</form>
+<p class="result-count" aria-live="polite" data-count>Showing {{BETS_TOTAL}} of {{BETS_TOTAL}} startups</p>
+
+<div class="empty" data-empty hidden>
+<p>No startups</p>
+<p>No companies match these filters yet.</p>
+</div>
+
+<ul class="bets" data-bets>
+{{BETS}}
+</ul>
+</div>
+</section>
