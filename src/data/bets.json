@@ -1,0 +1,774 @@
+[
+  {
+    "name": "AdmitKard",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "ECommerce",
+    "location": "Noida",
+    "url": "https://www.admitkard.com/",
+    "li": "https://www.linkedin.com/company/admitkard/",
+    "desc": "AdmitKard, is an Ed-Tech platform that helps students looking to take admission in Universities abroad by guiding them in the entire journey from Test Prep, Profile Building, Admissions, Education Loans to Student Visa.",
+    "founders": [
+      {
+        "name": "Rachit Agrawal",
+        "li": "https://www.linkedin.com/in/rachitagrawal1/"
+      },
+      {
+        "name": "Piyush Bhartiya",
+        "li": "https://www.linkedin.com/in/piyush-bhartiya-51a8659/"
+      }
+    ]
+  },
+  {
+    "name": "Basic Home Loans",
+    "status": "Active Investment",
+    "stage": "Series A",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "Financial Services",
+    "location": "Gurgaon",
+    "url": "https://www.basichomeloan.com/",
+    "li": "https://www.linkedin.com/company/basichomeloan/",
+    "desc": "BASIC Home Loan is India's first automated platform for secured lending with a special focus on the affordable housing segment.",
+    "founders": [
+      {
+        "name": "Atul Monga",
+        "li": "https://www.linkedin.com/in/atulmonga-basic/"
+      },
+      {
+        "name": "Kalyan Josyula",
+        "li": "https://www.linkedin.com/in/kalyan-josyula/"
+      }
+    ]
+  },
+  {
+    "name": "Metamorphosys",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "SaaS",
+    "location": "Pune",
+    "url": "https://metamorphtech.com/",
+    "li": "https://www.linkedin.com/company/metamorphosys-technologies-private-limited/",
+    "desc": "MetaMorphoSys Technologies is an InsurTech focused on creating innovative software products to address the challenges of the global Insurance Industry.",
+    "founders": [
+      {
+        "name": "Amit Naik",
+        "li": "https://www.linkedin.com/in/amitnaik75/"
+      },
+      {
+        "name": "Kewal Vargante",
+        "li": "https://www.linkedin.com/in/kewal-vargante-8365b13/"
+      }
+    ]
+  },
+  {
+    "name": "Embifi",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "Financial Services",
+    "location": "Delhi",
+    "url": "https://www.embifi.in/",
+    "li": "https://www.linkedin.com/company/embifi/",
+    "desc": "Embifi is a loan-facilitating platform for the EV ecosystem. Their seamless digital process enables the consumers to escape long queues and ever lasting queries to avail loans at their fingertips.",
+    "founders": [
+      {
+        "name": "Anupam Yadav",
+        "li": "https://www.linkedin.com/in/anupamyadav/"
+      },
+      {
+        "name": "Kshitij Sharma",
+        "li": "https://www.linkedin.com/in/sharmakshitij/"
+      }
+    ]
+  },
+  {
+    "name": "Pharmagrowth",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "IPAAS",
+    "location": "Indore",
+    "url": "https://pharmagrowth.in/",
+    "li": "https://www.linkedin.com/company/pharmagrowth-solutions/",
+    "desc": "PharmaGrowth helps pharmacies increase sales and decrease operational costs, offering cheaper & faster procurement, highest fill rate & best technology to manage shop and its customer satisfaction in an automated manner.",
+    "founders": [
+      {
+        "name": "Anmol Sureka",
+        "li": "https://www.linkedin.com/in/anmol-sureka-92628982/"
+      },
+      {
+        "name": "Sajal Jain",
+        "li": "https://www.linkedin.com/in/sajal-jain-65944794/"
+      },
+      {
+        "name": "Deepali Jain",
+        "li": "https://www.linkedin.com/in/deepali-jain-708921144/"
+      }
+    ]
+  },
+  {
+    "name": "Unipe",
+    "status": "Active Investment",
+    "stage": "Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "Financial Services",
+    "location": "Gurgaon",
+    "url": "https://www.unipe.money/",
+    "li": "https://www.linkedin.com/company/unipe-technology-inc/",
+    "desc": "Unipe is leading the Digital Transformation in the Technology Era - Financial Inclusion & Management of the Indian Workforce with its platform.",
+    "founders": [
+      {
+        "name": "Anupam Acharya",
+        "li": "https://www.linkedin.com/in/anupam-unipe/"
+      },
+      {
+        "name": "Abhijit Verma",
+        "li": "https://www.linkedin.com/in/abhijit-verma-8b248994/"
+      },
+      {
+        "name": "Sahil Arora",
+        "li": "https://www.linkedin.com/in/sahil-arora-89a14716/"
+      }
+    ]
+  },
+  {
+    "name": "Nuuk",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "Consumer",
+    "location": "Gurgaon",
+    "url": "https://nuuk.in/",
+    "li": "https://www.linkedin.com/company/nuuklife/",
+    "desc": "Nuuk is all about \"design-first, function-always\". Their products mirror Nuuk's elegance and practicality, ensuring that your appliances don't just fit into your home; they elevate its every nook.",
+    "founders": [
+      {
+        "name": "Gazal S. Kalra",
+        "li": "https://www.linkedin.com/in/gazalkalra/"
+      },
+      {
+        "name": "Shalabh Gupta",
+        "li": "https://www.linkedin.com/in/shalabh-gupta/"
+      }
+    ]
+  },
+  {
+    "name": "Biddano",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "IPAAS",
+    "location": "Pune",
+    "url": "https://biddano.com/",
+    "li": "https://www.linkedin.com/company/biddano",
+    "desc": "Biddano is evolving Healthcare Logistics by enhancing the reach of the distributors with a technology backed professional logistics support and streamlining their business with Analytics & Customised Consulting.",
+    "founders": [
+      {
+        "name": "Talha Shaikh",
+        "li": "https://www.linkedin.com/in/talha-shaikh-12129780/"
+      },
+      {
+        "name": "Ashok Yadav",
+        "li": "https://www.linkedin.com/in/ashok-y-4353434/"
+      }
+    ]
+  },
+  {
+    "name": "Apni Bus",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "Tech",
+    "location": "Gurgaon",
+    "url": "https://apnibus.com/",
+    "li": "https://www.linkedin.com/company/apnibus/",
+    "desc": "ApniBus is an online intercity bus ticket booking and live bus tracking app, currently live in 15+ cities covering more than 300 routes and soon to be launched in other cities across India. Now you never have to worry.",
+    "founders": [
+      {
+        "name": "Sumit Gupta",
+        "li": "https://www.linkedin.com/in/sumitgupta-7/"
+      },
+      {
+        "name": "Ravi Yadav",
+        "li": "https://www.linkedin.com/in/ravi-mnit-iimb/"
+      }
+    ]
+  },
+  {
+    "name": "Cleevo",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "Consumer",
+    "location": "Chennai",
+    "url": "https://getcleevo.com",
+    "li": "https://www.linkedin.com/company/getcleevo/",
+    "desc": "Cleevo is innovating towards a cleaner future. Powered by coconuts, Cleevo's cleaners are 100% plant-based, ensuring non-toxic and safe home cleaning.",
+    "founders": [
+      {
+        "name": "Mayank Jain",
+        "li": "https://www.linkedin.com/in/mayankjn/"
+      },
+      {
+        "name": "Karan Shah",
+        "li": "https://www.linkedin.com/in/karanhiteshshah/"
+      }
+    ]
+  },
+  {
+    "name": "Pathfndr",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "B2B",
+    "fund": "Fund 0",
+    "sector": "Tech",
+    "location": "Bengaluru",
+    "url": "https://www.pathfndr.io/",
+    "li": "https://www.linkedin.com/company/pathfndr-travel-operating-system/",
+    "desc": "Pathfndr is an AI powered Travel Operating System for the new age travel advisor. Comes equipped with state-of-the-art innovation as well as features to handle the mundane, but important things.",
+    "founders": [
+      {
+        "name": "Varun Gupta",
+        "li": "https://www.linkedin.com/in/varungupta-metripping/"
+      }
+    ]
+  },
+  {
+    "name": "Fleek",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "Financial Services",
+    "location": "Bengaluru",
+    "url": "https://getfleek.app/",
+    "li": "https://www.linkedin.com/company/getfleekapp/",
+    "desc": "Fleek helps simplify the subscription management system by enabling users to track, manage, renew, or cancel all their subscriptions and recurring payments all in one place.",
+    "founders": [
+      {
+        "name": "Aditya Uttaravalli",
+        "li": "https://www.linkedin.com/in/aditya-uttaravalli-swiggy-iitm/"
+      }
+    ]
+  },
+  {
+    "name": "The Arc",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "D2C",
+    "fund": "Fund 0",
+    "sector": "SaaS",
+    "location": "Bengaluru",
+    "url": "https://thearcweb.com/home",
+    "li": "https://www.linkedin.com/company/thearchq/",
+    "desc": "The Arc, reports on and deciphers essential developments in businesses through accurate company data, its original and unbiased understanding of the tech ecosystem, and trusted insider voices.",
+    "founders": [
+      {
+        "name": "Aditi Shrivastava",
+        "li": "https://www.linkedin.com/in/aditi-shrivastava-thearc/"
+      },
+      {
+        "name": "Madhav Chanchani",
+        "li": "https://www.linkedin.com/in/madhav-chanchani-433a079/"
+      }
+    ]
+  },
+  {
+    "name": "Swish Club",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B2C",
+    "fund": "Fund 0",
+    "sector": "ECommerce",
+    "location": "Bengaluru",
+    "url": "https://swishclub.in/",
+    "li": "https://www.linkedin.com/company/swishclubhq/",
+    "desc": "Swish Club, India's first \"Employee Savings Platform\", is an invite-only platform, that offers a world of exclusive benefits and unparalleled deals, where goods and services are offered at prices you can't simply Google.",
+    "founders": [
+      {
+        "name": "Dushyant Sapre",
+        "li": "https://www.linkedin.com/in/sapredushyant/"
+      },
+      {
+        "name": "Suraj Kumar",
+        "li": "https://www.linkedin.com/in/surajkr25/"
+      },
+      {
+        "name": "Jai Anand",
+        "li": "https://www.linkedin.com/in/jaianand01/"
+      }
+    ]
+  },
+  {
+    "name": "SoulSensei (formerly Faith)",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "D2C",
+    "fund": "Fund 0",
+    "sector": "Tech",
+    "location": "Mumbai",
+    "url": "https://www.soulsensei.in/",
+    "li": "https://www.linkedin.com/company/soulsensei/",
+    "desc": "SoulSensei is a spiritual wellness platform dedicated to connected people with trusted guides to find hope, happiness and fulfilment.",
+    "founders": [
+      {
+        "name": "Janhavi Parikh",
+        "li": "https://www.linkedin.com/in/janhaviparikh/"
+      },
+      {
+        "name": "Neha Grover",
+        "li": "https://www.linkedin.com/in/neha-grover-00758923/"
+      }
+    ]
+  },
+  {
+    "name": "DrinkPrime",
+    "status": "Active Investment",
+    "stage": "Series A",
+    "model": "D2C",
+    "fund": "Fund 0",
+    "sector": "Consumer",
+    "location": "Bengaluru",
+    "url": "https://drinkprime.in/",
+    "li": "https://www.linkedin.com/company/drinkprime/",
+    "desc": "DrinkPrime's smart, tech-enabled water purifiers are designed to address the water quality challenges unique to Indian households, providing affordable and reliable access to safe drinking water.",
+    "founders": [
+      {
+        "name": "Manas Hota",
+        "li": "https://www.linkedin.com/in/manashota/"
+      },
+      {
+        "name": "Vijender Reddy",
+        "li": "https://www.linkedin.com/in/reddyvijender/"
+      }
+    ]
+  },
+  {
+    "name": "Babynama",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "D2C",
+    "fund": "Fund 0",
+    "sector": "SaaS",
+    "location": "Gurgaon",
+    "url": "https://babynama.com/",
+    "li": "https://www.linkedin.com/company/babynama/",
+    "desc": "Designed for the modern, busy parent, Babynama offers seamless access to a diverse team of qualified pediatricians, nutritionists, lactation experts, gynecologists, and fitness professionals.",
+    "founders": [
+      {
+        "name": "Dr. Sumitra Meena",
+        "li": "https://www.linkedin.com/in/docsumi/"
+      }
+    ]
+  },
+  {
+    "name": "Vecros",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B",
+    "fund": "Fund 0",
+    "sector": "Tech",
+    "location": "Bengaluru",
+    "url": "https://vecros.com/",
+    "li": "https://www.linkedin.com/company/vecros/",
+    "desc": "Vecros build software and hardware that enable drones to operate in GPS-denied environments, autonomously and without pre-existing infrastructure.",
+    "founders": [
+      {
+        "name": "Besta Prem Sai",
+        "li": "https://www.linkedin.com/in/premsofficial/"
+      },
+      {
+        "name": "Rajeshree Deotalu",
+        "li": "https://www.linkedin.com/in/rajeshree73/"
+      }
+    ]
+  },
+  {
+    "name": "Rocket Pay",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B",
+    "fund": "Fund 0",
+    "sector": "Financial Services",
+    "location": "Bengaluru",
+    "url": "https://www.rocketpay.co.in/",
+    "li": "https://www.linkedin.com/company/rocketpayment/",
+    "desc": "RocketPay is India's First automatic credit collection app that empowers every business owner to efficiently manage credit collection process and improve their cash flow.",
+    "founders": [
+      {
+        "name": "Arpit Bajpai",
+        "li": "https://www.linkedin.com/in/arpitbajpai2/"
+      },
+      {
+        "name": "Ishan Sharma",
+        "li": "https://www.linkedin.com/in/ishan-sharma-7046b613b/"
+      },
+      {
+        "name": "Rishav Dokania",
+        "li": "https://www.linkedin.com/in/rishav-dokania-a3942987/"
+      }
+    ]
+  },
+  {
+    "name": "Project Elevate",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B",
+    "fund": "Fund 0",
+    "sector": "SaaS",
+    "location": "Gurgaon",
+    "url": "https://www.elevate.so/",
+    "li": "https://www.linkedin.com/company/elevatehq/",
+    "desc": "ElevateHQ takes away the ambiguity and grunt-work behind manual sales incentive calculation, and allows companies to experiment with incentive plans that actually work for every employee - and not just top performers.",
+    "founders": [
+      {
+        "name": "Kartik Arora",
+        "li": "https://www.linkedin.com/in/kartikarora/"
+      },
+      {
+        "name": "Apoorv Singh",
+        "li": "https://www.linkedin.com/in/apoorvsingh91/"
+      }
+    ]
+  },
+  {
+    "name": "Vama",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "Tech",
+    "location": "Bengaluru",
+    "url": "https://vama.app/en/puja",
+    "li": "https://www.linkedin.com/company/selectastro/",
+    "desc": "VAMA is a one-stop virtual platform that provides easy access to an array of services for one’s religious/spiritual journey.",
+    "founders": [
+      {
+        "name": "Acharya Dev",
+        "li": ""
+      },
+      {
+        "name": "Manu Jain",
+        "li": "https://www.linkedin.com/in/manu-jain/"
+      },
+      {
+        "name": "Himanshu Semwal",
+        "li": "https://www.linkedin.com/in/himanshu-semwal-7814aa14/"
+      }
+    ]
+  },
+  {
+    "name": "Crest",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "SaaS",
+    "location": "Bengaluru",
+    "url": "https://www.getcrest.ai/",
+    "li": "https://www.linkedin.com/company/get-crest/",
+    "desc": "Crest AI offers an automated supply chain tool that helps SMBs and D2Cs to boost their revenue growth by eliminating frequent stock-outs.",
+    "founders": [
+      {
+        "name": "Rahul Vishwakarma",
+        "li": "https://www.linkedin.com/in/rahul-getcrest/"
+      },
+      {
+        "name": "Akhil Kumar",
+        "li": "https://www.linkedin.com/in/akhil-kumar/"
+      },
+      {
+        "name": "Yogesh Byahatti",
+        "li": "https://www.linkedin.com/in/yogesh-getcrest/"
+      }
+    ]
+  },
+  {
+    "name": "Asaya",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "Consumer",
+    "location": "Bengaluru",
+    "url": "https://worldofasaya.com/",
+    "li": "https://www.linkedin.com/company/wellspring-consumer-private-limited/",
+    "desc": "Asaya is a range of melanin-first skincare. Made with science, researched with rigour, crafted with love and kindness — their offerings stand in sharp contrast against the grain of generic solutions and formulations.",
+    "founders": [
+      {
+        "name": "Neeraj Biyani",
+        "li": "https://www.linkedin.com/in/neerajbiyani/"
+      },
+      {
+        "name": "Eeti Sharma",
+        "li": "https://www.linkedin.com/in/eeti-sharma/"
+      },
+      {
+        "name": "Mandeep Singh Bhatia",
+        "li": "https://www.linkedin.com/in/mandeep-singh-bhatia-7738881a/"
+      }
+    ]
+  },
+  {
+    "name": "Hypergro",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "Tech",
+    "location": "Bengaluru",
+    "url": "https://hypergro.ai/",
+    "li": "https://www.linkedin.com/company/hypergro/",
+    "desc": "Hypergro's Efficient Acquisition system transforms the way businesses acquire new customers by harnessing the power of artificial intelligence to simplify the acquisition process.",
+    "founders": [
+      {
+        "name": "Rituraj Biswas",
+        "li": "https://www.linkedin.com/in/riturajbiswas/"
+      },
+      {
+        "name": "Neha Soman",
+        "li": "https://www.linkedin.com/in/nehasoman/"
+      }
+    ]
+  },
+  {
+    "name": "Furrl",
+    "status": "Active Investment",
+    "stage": "Seed",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "ECommerce",
+    "location": "Bengaluru",
+    "url": "https://furrl.in/",
+    "li": "https://www.linkedin.com/company/furrl/",
+    "desc": "Furrl is an e-commerce platform that aims to create a personalized shopping experience by allowing users to discover & connect with new-age, homegrown brands that resonate with their individual style and preferences.",
+    "founders": [
+      {
+        "name": "Esha Tiwary",
+        "li": "https://www.linkedin.com/in/eshatiwary/"
+      }
+    ]
+  },
+  {
+    "name": "Str8bat",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "SaaS",
+    "location": "Bengaluru",
+    "url": "https://www.str8bat.com/",
+    "li": "https://www.linkedin.com/company/str8bat-sport-tech-solutions-pvt.-ltd./",
+    "desc": "Str8bat uses advanced motion sensors and AI to provide real-time, actionable insights into a cricketer's performance, helping them track improvements and focus on areas of development & also offers access to top coaches.",
+    "founders": [
+      {
+        "name": "Gagan Daga",
+        "li": "https://www.linkedin.com/in/gagandaga/"
+      },
+      {
+        "name": "Rahul Nagar",
+        "li": "https://www.linkedin.com/in/rahul-nagar-5a76834/"
+      }
+    ]
+  },
+  {
+    "name": "Bidso",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "MaaS",
+    "location": "Bengaluru",
+    "url": "https://bidso.com/",
+    "li": "https://www.linkedin.com/company/bidso/",
+    "desc": "Sourcing headaches? Bidso turns them into playtime—custom goods, zero fuss, full transparency! From toys to toasters, launching new products is as easy as “click, connect, create!” Founded by ex-Flipkart, Amazon, and Udaan pros, Bidso gives brands a backstage pass to effortlessly source, customize, and scale their offerings—no supply chain drama required.",
+    "founders": [
+      {
+        "name": "Vivek Singhal",
+        "li": "https://www.linkedin.com/in/viveksinghal87/"
+      },
+      {
+        "name": "Rahul Agarwal",
+        "li": "https://www.linkedin.com/in/therahulagarwal/"
+      },
+      {
+        "name": "Ashwin Jain",
+        "li": "https://www.linkedin.com/in/ashwin-jain-50742923/"
+      },
+      {
+        "name": "Aditya Krishnakumar",
+        "li": "https://www.linkedin.com/in/aditya-krishnakumar-02244531/"
+      }
+    ]
+  },
+  {
+    "name": "DressFolk",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "Consumer",
+    "location": "Gurgaon",
+    "url": "https://dressfolk.com/",
+    "li": "https://www.linkedin.com/company/dressfolk/",
+    "desc": "Stitching together stories of heritage and style since 2017, Dressfolk is on a mission to modernize India’s iconic handlooms for the global stage. This D2C brand collaborates directly with artisans to co-create luxurious, high-quality garments that blend century-old craftsmanship with a dash of contemporary cool. For the fashion-forward and culturally curious, Dressfolk is where timeless weaves meet modern wardrobes, woven with love, designed for the world.",
+    "founders": [
+      {
+        "name": "Nitin Mehrotra",
+        "li": "https://www.linkedin.com/in/nitin-mehrotra-dressfolk/"
+      }
+    ]
+  },
+  {
+    "name": "Xneeti",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "ECommerce",
+    "location": "Gurgaon",
+    "url": "http://www.xneeti.com/",
+    "li": "https://www.linkedin.com/company/xneeti/",
+    "desc": "Xneeti is the passport for Indian sellers itching to go global, minus the jet lag! This new-age tech genie not only unlocks international growth with customised solutions, but also takes the wheel for all your e-commerce operations. Sit back while Xneeti turbocharges your brand’s journey from local sensation to global superstar.",
+    "founders": [
+      {
+        "name": "Amit Bagaria",
+        "li": "https://www.linkedin.com/in/amit-bagaria-67226a9/"
+      },
+      {
+        "name": "Vipin Parihar",
+        "li": "https://www.linkedin.com/in/vipinparihar/"
+      },
+      {
+        "name": "Prateek Goyal",
+        "li": "https://www.linkedin.com/in/prateek-goyal-6b99309b/"
+      }
+    ]
+  },
+  {
+    "name": "Pico Xpress",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "Consumer",
+    "location": "Bengaluru",
+    "url": "https://picoxpress.com/",
+    "li": "https://www.linkedin.com/company/pico-xpress/",
+    "desc": "Meet Pico Xpress, the speed demon shaking up India’s logistics scene! Powered by AI, Pico Xpress delivers everything from 30-minute quick commerce to full-stack fulfilment, zipping through city streets with smart routing, real-time tracking, and a tech-first approach. For marketplaces, brands, or retail giants looking to supercharge their logistics game, Pico Xpress turns any business into a fast-commerce powerhouse, getting your products where they need to be, in record time, with a dash of futuristic flair.",
+    "founders": [
+      {
+        "name": "Aniruddha Gangopadhyay",
+        "li": "https://www.linkedin.com/in/aniruddha-g/"
+      },
+      {
+        "name": "Kamal Sayal",
+        "li": "https://www.linkedin.com/in/kamalsyal/"
+      }
+    ]
+  },
+  {
+    "name": "Prosperr.io",
+    "status": "",
+    "stage": "Pre Series A",
+    "model": "B2B",
+    "fund": "Fund 1",
+    "sector": "Financial Services",
+    "location": "Bengaluru",
+    "url": "https://www.prosperr.io/",
+    "li": "https://www.linkedin.com/company/prosperr-io/",
+    "desc": "Prosperr is your financial sidekick, turning tax season from a yearly headache into a year-round win. With an exclusive AI-powered subscription, Prosperr hunts down every last deduction, maximising your savings and keeping compliance on point, all while you kick back. Trusted by thousands (even folks at Amazon and Google), Prosperr transforms tax optimisation into effortless financial peace of mind, so you keep more of what you earn, minus the paperwork panic.",
+    "founders": [
+      {
+        "name": "Manas Gond",
+        "li": "https://www.linkedin.com/in/manas-gond/"
+      },
+      {
+        "name": "Dev Kumar",
+        "li": "https://www.linkedin.com/in/dev24d/"
+      }
+    ]
+  },
+  {
+    "name": "Gladful",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "Consumer",
+    "location": "Gurgaon",
+    "url": "https://gladful.in/",
+    "li": "https://www.linkedin.com/company/gladful/",
+    "desc": "Gladful packs Indian food with clean, protein-rich goodness that’s as school-friendly as it is parent-approved. Every bite is stuffed with yummy, gluten-free power ingredients (no maida, no trans-fats, no fake stuff, EVER). Fussy eaters? Not anymore! Seen on Shark Tank and loved by families across India, Gladful’s HI-Fiber chillas, pancakes, and upma mixes make nutrition taste like joy. Made for busy mornings, pure snack cravings, and anyone who wants to munch like a champion, Gladful turns every plate into a healthy celebration! Why settle for bland when every meal can be Gladful?",
+    "founders": [
+      {
+        "name": "Parul Sharma",
+        "li": "https://www.linkedin.com/in/parulsharma123/"
+      },
+      {
+        "name": "Manu Sharma",
+        "li": "https://www.linkedin.com/in/msatgladful/"
+      }
+    ]
+  },
+  {
+    "name": "Cookd",
+    "status": "Active Investment",
+    "stage": "Pre-Seed",
+    "model": "D2C",
+    "fund": "Fund 1",
+    "sector": "Consumer",
+    "location": "Chennai",
+    "url": "https://shop.cookdtv.com/",
+    "li": "https://www.linkedin.com/company/cookdtv/",
+    "desc": "The secret ingredient turning Indian kitchens into gourmet playgrounds! Forget recipe scroll-athons or bland shortcuts: Cookd brings regionally-inspired Biryani Kits, fiery Masalas, and authentic Curry Pastes straight to your pantry, making every meal a celebration of bold flavours and effortless cooking. With zero additives and premium, clean-label goodness, Cookd helps you craft restaurant-worthy dishes in minutes—no culinary degree (or grandma’s patience) required. Backed by a 5.5 million-strong digital foodie family and a flavour-packed R&D lab, Cookd is on a mission to make home-cooking crazy-delicious, crazy-easy, and drool-worthy.",
+    "founders": [
+      {
+        "name": "Aathitiyan V S",
+        "li": "https://www.linkedin.com/in/aathitiyan/"
+      }
+    ]
+  },
+  {
+    "name": "Liquide",
+    "status": "Active Investment",
+    "stage": "Pre Series A",
+    "model": "B2B2C",
+    "fund": "Fund 1",
+    "sector": "Financial Services",
+    "location": "Bengaluru",
+    "url": "https://liquide.life/",
+    "li": "https://www.linkedin.com/company/liquidelife/",
+    "desc": "Your pocket-sized investing sidekick with a sixth sense for the stock market! Want to know if it’s time to buy, hold, or hit “wait”? Liquide’s AI Bot LiMo reads the market mood and gives you real-time verdicts, while powerful screeners and portfolio insights do all the heavy lifting. Just link your broker app, and voilà—stock and mutual fund analysis, curated watchlists, and instant alerts all at your command. All-in-one smart AI advisor that keeps you a step ahead of the market. No more chart-watching panic or FOMO buying, Liquide’s got your back with sharp reports, wealth baskets, and deep dives into each stock’s real story. All you need? A few Liquide coins and your portfolio’s about to get way smarter (and maybe even a little luckier).",
+    "founders": [
+      {
+        "name": "Anuj Bajpai",
+        "li": "https://www.linkedin.com/in/bajpaianuj/"
+      },
+      {
+        "name": "Paritosh G.",
+        "li": "https://www.linkedin.com/in/paritoshgn/"
+      },
+      {
+        "name": "Aniket Shirke",
+        "li": "https://www.linkedin.com/in/aniketdshirke/"
+      },
+      {
+        "name": "Kunal Ambasta",
+        "li": "https://www.linkedin.com/in/kunalambasta/"
+      }
+    ]
+  }
+]
